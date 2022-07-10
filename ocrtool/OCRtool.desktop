@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=OCRtool
+GenericName=OCR generator
+Comment=Simple gui for ocrmypdf
+Exec=ocrmypdfgui
+Icon=Logs
+Terminal=false
+Categories=GTK;Development;IDE;
+MimeType=application/pdf;
+StartupNotify=true
