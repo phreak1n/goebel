@@ -1,9 +1,9 @@
 # goebel
-tools for goelebl crop
+tools for goebel corp
 
 ## ocrtool
-istall ocrmypdf to easly ocr pdfs on destop
+install ocrmypdf to easly ocr pdfs on desktop
 ### setup
 ```bash
-sh -c "$(wget https://raw.githubusercontent.com/phreak1n/goebel/main/ocrtool/setup-ocrtool.sh -O -)"
+bash -c "$(wget https://raw.githubusercontent.com/phreak1n/goebel/main/ocrtool/setup-ocrtool.sh -O -)"
 ```
